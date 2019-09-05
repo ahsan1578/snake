@@ -1,8 +1,8 @@
 Snake
 ===============
 
-Author: D M Raisul Ahsan
-Date: 5/5/2019
+***Author: D M Raisul Ahsan***  
+***Date: 5/5/2019***
 
 Game play
 ----------
@@ -16,18 +16,18 @@ There are four levels of the game. After every 20 score you reach the next level
 Classes used in the game are
 -----------------------------
 
-* Snake
-* Wall
-* Dimensions
-* GenRandomFoodPosition
-* GenRandomSnakePosition
-* Food
-* GameManager
-* Life
-* SideBar
-* CustomButton
-* PaintBoard
-* SnakeGui
+* *Snake*
+* *Wall*
+* *Dimensions*
+* *GenRandomFoodPosition*
+* *GenRandomSnakePosition*
+* *Food*
+* *GameManager*
+* *Life*
+* *SideBar*
+* *CustomButton*
+* *PaintBoard*
+* *SnakeGui*
 - - -
 Most of the classes are explained by the comments.
 In short, Snake is a linkedlist of coordinates. Moving snake add one coordinate at the head and removes one from the end.
